@@ -1,0 +1,10 @@
+{
+  "name": "Renato Rosa — Assistente Virtual das Florestas",
+  "description": "Projeto educativo de Renato Rosa: Assistente Virtual das Florestas com foco em Florestas, Floresta Amazônica e Floresta Taiga, comandos de voz, vídeos interativos e Quiz Desafio das Florestas.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
